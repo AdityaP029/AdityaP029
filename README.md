@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **adityabhat029@gmail.com**
 
-- ⚡ Fun fact **I chose biology when I was in pre-university.**
+- ⚡ Fun fact **I chose biology when I was in pre-university**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
