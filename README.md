@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityap029" alt="adityap029" /></a> </p>
-
 - 🌱 I’m currently learning **Industrial IOT on Google Cloud**
 
 - 💬 Ask me about **Python, C language, Arduino, Blender and Figma**
