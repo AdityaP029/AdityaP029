@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Industrial IOT on Google Cloud**
 
-- 💬 Ask me about **Python,C,Arduino,Blender, Figma**
+- 💬 Ask me about **Python, C, Arduino, Blender and Figma**
 
 - 📫 How to reach me **adityabhat029@gmail.com**
 
